@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.306893ef.css",
+    "main.js": "/react-gh-pages/static/js/main.6e2640a6.js",
+    "static/media/Rectangle 14.png": "/react-gh-pages/static/media/Rectangle 14.7cc9ce2c5cb85422f916.png",
+    "static/media/Group 1 (1).png": "/react-gh-pages/static/media/Group 1 (1).46f3997d750778d29c2d.png",
+    "static/media/contact1 1.png": "/react-gh-pages/static/media/contact1 1.f7d767f4c4804724e0e0.png",
+    "static/media/Mask group.png": "/react-gh-pages/static/media/Mask group.95a7f3fb0193e2f4c147.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.306893ef.css.map": "/react-gh-pages/static/css/main.306893ef.css.map",
+    "main.6e2640a6.js.map": "/react-gh-pages/static/js/main.6e2640a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306893ef.css",
+    "static/js/main.6e2640a6.js"
+  ]
+}
